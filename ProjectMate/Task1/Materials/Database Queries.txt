@@ -1,0 +1,48 @@
+﻿SELECT * FROM manager
+
+SELECT client_id, client.name, status_name, client.manager_id, m.name AS 'Manager name'
+FROM client
+INNER JOIN client_status cs ON client.status_id = cs.status_id
+INNER JOIN manager m on m.manager_id = client.manager_id
+
+SELECT client_id, client.name, status_name, client.manager_id, m.name AS 'Manager name'
+FROM client
+INNER JOIN client_status cs ON client.status_id = cs.status_id
+INNER JOIN manager m on m.manager_id = client.manager_id
+WHERE client.manager_id = {value}
+
+SELECT client_id, client.name, status_name, client.manager_id, m.name AS 'Manager name'
+FROM client
+INNER JOIN client_status cs ON client.status_id = cs.status_id
+INNER JOIN manager m on m.manager_id = client.manager_id
+WHERE client.status_id = {value}
+
+SELECT product_id, name, price, type_name, period_name
+FROM product pr
+INNER JOIN subscription_period sp ON pr.period_id = sp.period_id
+INNER JOIN subscription_type st ON pr.type_id = st.type_id
+
+SELECT *
+FROM product pr
+WHERE product_id IN (
+    SELECT sl.product_id
+    FROM sales sl
+    WHERE sale_id IN
+    (
+        SELECT sales_id
+        FROM client_sales
+        WHERE client_id = {value}
+    )
+)
+
+INSERT INTO client VALUES ('{value}', '{value}', '{value}')
+UPDATE client SET status_id = '{value}' WHERE client_id = {value}
+DELETE FROM client WHERE client_id = {value}
+
+INSERT INTO manager VALUES ('{value}')
+UPDATE manager SET name = '{value}' WHERE manager_id = {value}
+DELETE manager WHERE manager_id = {value}
+
+INSERT INTO product VALUES ('{value}', '{value}', '{value}', '{value}')
+UPDATE product SET name = '{value}' WHERE product_id = '{value}'
+DELETE FROM product WHERE product_id = '{value}';

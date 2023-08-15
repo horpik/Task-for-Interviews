@@ -1,0 +1,20 @@
+﻿Task1
+
+
+winexe
+C#
+.cs
+D:\Dev\Projects\Task for Interviews\ProjectMate\Task1\obj\Debug\
+Task1
+none
+false
+DEBUG;TRACE
+D:\Dev\Projects\Task for Interviews\ProjectMate\Task1\App.xaml
+15666859471
+4-721283466
+28-2141959329
+10-643314350
+Src\View\MainWindow.xaml;Src\View\Pages\ClientPage\AddClientDialog.xaml;Src\View\Pages\ClientPage\ClientPage.xaml;Src\View\Pages\ClientPage\DeleteClientDialog.xaml;Src\View\Pages\ClientPage\GetManagerIdDialog.xaml;Src\View\Pages\ClientPage\GetStatusIdDialog.xaml;Src\View\Pages\ClientPage\UpdateClientDialog.xaml;Src\View\Pages\ManagerPage\AddManagerDialog.xaml;Src\View\Pages\ManagerPage\DeleteManagerDialog.xaml;Src\View\Pages\ManagerPage\ManagerPage.xaml;Src\View\Pages\ManagerPage\UpdateManagerDialog.xaml;Src\View\Pages\ProductPage\AddProductDialog.xaml;Src\View\Pages\ProductPage\DeleteProductDialog.xaml;Src\View\Pages\ProductPage\ProductPage.xaml;Src\View\Pages\ProductPage\UpdateProductDialog.xaml;
+
+False
+

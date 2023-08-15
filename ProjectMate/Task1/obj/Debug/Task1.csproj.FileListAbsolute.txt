@@ -1,0 +1,96 @@
+D:\Dev\Projects\C#\Собеседования\ProjectMate\Task1\obj\Debug\Task1.csproj.AssemblyReference.cache
+D:\Dev\Projects\C#\Собеседования\ProjectMate\Task1\obj\Debug\Task1.csproj.SuggestedBindingRedirects.cache
+D:\Dev\Projects\C#\Собеседования\ProjectMate\Task1\obj\Debug\Src\View\MainWindow.g.cs
+D:\Dev\Projects\C#\Собеседования\ProjectMate\Task1\obj\Debug\App.g.cs
+D:\Dev\Projects\C#\Собеседования\ProjectMate\Task1\obj\Debug\Task1_Content.g.cs
+D:\Dev\Projects\C#\Собеседования\ProjectMate\Task1\obj\Debug\Task1_MarkupCompile.cache
+D:\Dev\Projects\C#\Собеседования\ProjectMate\Task1\obj\Debug\Task1_MarkupCompile.lref
+D:\Dev\Projects\C#\Собеседования\ProjectMate\Task1\bin\Debug\Task1.exe.config
+D:\Dev\Projects\C#\Собеседования\ProjectMate\Task1\bin\Debug\Task1.exe
+D:\Dev\Projects\C#\Собеседования\ProjectMate\Task1\bin\Debug\Task1.pdb
+D:\Dev\Projects\C#\Собеседования\ProjectMate\Task1\bin\Debug\System.Data.SqlClient.dll
+D:\Dev\Projects\C#\Собеседования\ProjectMate\Task1\bin\Debug\System.Data.SqlClient.xml
+D:\Dev\Projects\C#\Собеседования\ProjectMate\Task1\obj\Debug\Src\View\MainWindow.baml
+D:\Dev\Projects\C#\Собеседования\ProjectMate\Task1\obj\Debug\Task1.g.resources
+D:\Dev\Projects\C#\Собеседования\ProjectMate\Task1\obj\Debug\Task1.Properties.Resources.resources
+D:\Dev\Projects\C#\Собеседования\ProjectMate\Task1\obj\Debug\Task1.csproj.GenerateResource.cache
+D:\Dev\Projects\C#\Собеседования\ProjectMate\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+D:\Dev\Projects\C#\Собеседования\ProjectMate\Task1\obj\Debug\Task1.csproj.CopyComplete
+D:\Dev\Projects\C#\Собеседования\ProjectMate\Task1\obj\Debug\Task1.exe
+D:\Dev\Projects\C#\Собеседования\ProjectMate\Task1\obj\Debug\Task1.pdb
+D:\Dev\Projects\C#\Собеседования\ProjectMate\Task1\obj\Debug\Src\View\Pages\ClientPage\ClientPage.g.cs
+D:\Dev\Projects\C#\Собеседования\ProjectMate\Task1\obj\Debug\Src\View\Pages\ManagerPage\ManagerPage.g.cs
+D:\Dev\Projects\C#\Собеседования\ProjectMate\Task1\obj\Debug\Src\View\Pages\ProductPage\ProductPage.g.cs
+D:\Dev\Projects\C#\Собеседования\ProjectMate\Task1\obj\Debug\Src\View\Pages\ClientPage\ClientPage.baml
+D:\Dev\Projects\C#\Собеседования\ProjectMate\Task1\obj\Debug\Src\View\Pages\ManagerPage\ManagerPage.baml
+D:\Dev\Projects\C#\Собеседования\ProjectMate\Task1\obj\Debug\Src\View\Pages\ProductPage\ProductPage.baml
+D:\Dev\Projects\C#\Собеседования\ProjectMate\Task1\obj\Debug\Src\View\Pages\ClientPage\AddClientDialog.g.cs
+D:\Dev\Projects\C#\Собеседования\ProjectMate\Task1\obj\Debug\Src\View\Pages\ClientPage\GetManagerIdDialog.g.cs
+D:\Dev\Projects\C#\Собеседования\ProjectMate\Task1\obj\Debug\Src\View\Pages\ClientPage\GetStatusIdDialog.g.cs
+D:\Dev\Projects\C#\Собеседования\ProjectMate\Task1\obj\Debug\Src\View\Pages\ClientPage\AddClientDialog.baml
+D:\Dev\Projects\C#\Собеседования\ProjectMate\Task1\obj\Debug\Src\View\Pages\ClientPage\GetManagerIdDialog.baml
+D:\Dev\Projects\C#\Собеседования\ProjectMate\Task1\obj\Debug\Src\View\Pages\ClientPage\GetStatusIdDialog.baml
+D:\Dev\Projects\C#\Собеседования\ProjectMate\Task1\obj\Debug\Src\View\Pages\ClientPage\DeleteClientDialog.g.cs
+D:\Dev\Projects\C#\Собеседования\ProjectMate\Task1\obj\Debug\Src\View\Pages\ClientPage\UpdateClientDialog.g.cs
+D:\Dev\Projects\C#\Собеседования\ProjectMate\Task1\obj\Debug\Src\View\Pages\ClientPage\DeleteClientDialog.baml
+D:\Dev\Projects\C#\Собеседования\ProjectMate\Task1\obj\Debug\Src\View\Pages\ClientPage\UpdateClientDialog.baml
+D:\Dev\Projects\C#\Собеседования\ProjectMate\Task1\obj\Debug\Src\View\Pages\ManagerPage\AddManagerDialog.g.cs
+D:\Dev\Projects\C#\Собеседования\ProjectMate\Task1\obj\Debug\Src\View\Pages\ManagerPage\DeleteManagerDialog.g.cs
+D:\Dev\Projects\C#\Собеседования\ProjectMate\Task1\obj\Debug\Src\View\Pages\ManagerPage\UpdateManagerDialog.g.cs
+D:\Dev\Projects\C#\Собеседования\ProjectMate\Task1\obj\Debug\Src\View\Pages\ManagerPage\AddManagerDialog.baml
+D:\Dev\Projects\C#\Собеседования\ProjectMate\Task1\obj\Debug\Src\View\Pages\ManagerPage\DeleteManagerDialog.baml
+D:\Dev\Projects\C#\Собеседования\ProjectMate\Task1\obj\Debug\Src\View\Pages\ManagerPage\UpdateManagerDialog.baml
+D:\Dev\Projects\C#\Собеседования\ProjectMate\Task1\obj\Debug\Src\View\Pages\ProductPage\AddProductDialog.g.cs
+D:\Dev\Projects\C#\Собеседования\ProjectMate\Task1\obj\Debug\Src\View\Pages\ProductPage\DeleteProductDialog.g.cs
+D:\Dev\Projects\C#\Собеседования\ProjectMate\Task1\obj\Debug\Src\View\Pages\ProductPage\UpdateProductDialog.g.cs
+D:\Dev\Projects\C#\Собеседования\ProjectMate\Task1\obj\Debug\Src\View\Pages\ProductPage\AddProductDialog.baml
+D:\Dev\Projects\C#\Собеседования\ProjectMate\Task1\obj\Debug\Src\View\Pages\ProductPage\DeleteProductDialog.baml
+D:\Dev\Projects\C#\Собеседования\ProjectMate\Task1\obj\Debug\Src\View\Pages\ProductPage\UpdateProductDialog.baml
+D:\Dev\Projects\Task for Interviews\ProjectMate\Task1\bin\Debug\Task1.exe.config
+D:\Dev\Projects\Task for Interviews\ProjectMate\Task1\bin\Debug\Task1.exe
+D:\Dev\Projects\Task for Interviews\ProjectMate\Task1\bin\Debug\Task1.pdb
+D:\Dev\Projects\Task for Interviews\ProjectMate\Task1\bin\Debug\System.Data.SqlClient.dll
+D:\Dev\Projects\Task for Interviews\ProjectMate\Task1\bin\Debug\System.Data.SqlClient.xml
+D:\Dev\Projects\Task for Interviews\ProjectMate\Task1\obj\Debug\Task1.csproj.AssemblyReference.cache
+D:\Dev\Projects\Task for Interviews\ProjectMate\Task1\obj\Debug\Task1.csproj.SuggestedBindingRedirects.cache
+D:\Dev\Projects\Task for Interviews\ProjectMate\Task1\obj\Debug\Src\View\MainWindow.g.cs
+D:\Dev\Projects\Task for Interviews\ProjectMate\Task1\obj\Debug\Src\View\Pages\ClientPage\AddClientDialog.g.cs
+D:\Dev\Projects\Task for Interviews\ProjectMate\Task1\obj\Debug\Src\View\Pages\ClientPage\ClientPage.g.cs
+D:\Dev\Projects\Task for Interviews\ProjectMate\Task1\obj\Debug\Src\View\Pages\ClientPage\DeleteClientDialog.g.cs
+D:\Dev\Projects\Task for Interviews\ProjectMate\Task1\obj\Debug\Src\View\Pages\ClientPage\GetManagerIdDialog.g.cs
+D:\Dev\Projects\Task for Interviews\ProjectMate\Task1\obj\Debug\Src\View\Pages\ClientPage\GetStatusIdDialog.g.cs
+D:\Dev\Projects\Task for Interviews\ProjectMate\Task1\obj\Debug\Src\View\Pages\ClientPage\UpdateClientDialog.g.cs
+D:\Dev\Projects\Task for Interviews\ProjectMate\Task1\obj\Debug\Src\View\Pages\ManagerPage\AddManagerDialog.g.cs
+D:\Dev\Projects\Task for Interviews\ProjectMate\Task1\obj\Debug\Src\View\Pages\ManagerPage\DeleteManagerDialog.g.cs
+D:\Dev\Projects\Task for Interviews\ProjectMate\Task1\obj\Debug\Src\View\Pages\ManagerPage\ManagerPage.g.cs
+D:\Dev\Projects\Task for Interviews\ProjectMate\Task1\obj\Debug\Src\View\Pages\ManagerPage\UpdateManagerDialog.g.cs
+D:\Dev\Projects\Task for Interviews\ProjectMate\Task1\obj\Debug\Src\View\Pages\ProductPage\AddProductDialog.g.cs
+D:\Dev\Projects\Task for Interviews\ProjectMate\Task1\obj\Debug\Src\View\Pages\ProductPage\DeleteProductDialog.g.cs
+D:\Dev\Projects\Task for Interviews\ProjectMate\Task1\obj\Debug\Src\View\Pages\ProductPage\ProductPage.g.cs
+D:\Dev\Projects\Task for Interviews\ProjectMate\Task1\obj\Debug\Src\View\Pages\ProductPage\UpdateProductDialog.g.cs
+D:\Dev\Projects\Task for Interviews\ProjectMate\Task1\obj\Debug\App.g.cs
+D:\Dev\Projects\Task for Interviews\ProjectMate\Task1\obj\Debug\Task1_Content.g.cs
+D:\Dev\Projects\Task for Interviews\ProjectMate\Task1\obj\Debug\Task1_MarkupCompile.cache
+D:\Dev\Projects\Task for Interviews\ProjectMate\Task1\obj\Debug\Task1_MarkupCompile.lref
+D:\Dev\Projects\Task for Interviews\ProjectMate\Task1\obj\Debug\Src\View\MainWindow.baml
+D:\Dev\Projects\Task for Interviews\ProjectMate\Task1\obj\Debug\Src\View\Pages\ClientPage\AddClientDialog.baml
+D:\Dev\Projects\Task for Interviews\ProjectMate\Task1\obj\Debug\Src\View\Pages\ClientPage\ClientPage.baml
+D:\Dev\Projects\Task for Interviews\ProjectMate\Task1\obj\Debug\Src\View\Pages\ClientPage\DeleteClientDialog.baml
+D:\Dev\Projects\Task for Interviews\ProjectMate\Task1\obj\Debug\Src\View\Pages\ClientPage\GetManagerIdDialog.baml
+D:\Dev\Projects\Task for Interviews\ProjectMate\Task1\obj\Debug\Src\View\Pages\ClientPage\GetStatusIdDialog.baml
+D:\Dev\Projects\Task for Interviews\ProjectMate\Task1\obj\Debug\Src\View\Pages\ClientPage\UpdateClientDialog.baml
+D:\Dev\Projects\Task for Interviews\ProjectMate\Task1\obj\Debug\Src\View\Pages\ManagerPage\AddManagerDialog.baml
+D:\Dev\Projects\Task for Interviews\ProjectMate\Task1\obj\Debug\Src\View\Pages\ManagerPage\DeleteManagerDialog.baml
+D:\Dev\Projects\Task for Interviews\ProjectMate\Task1\obj\Debug\Src\View\Pages\ManagerPage\ManagerPage.baml
+D:\Dev\Projects\Task for Interviews\ProjectMate\Task1\obj\Debug\Src\View\Pages\ManagerPage\UpdateManagerDialog.baml
+D:\Dev\Projects\Task for Interviews\ProjectMate\Task1\obj\Debug\Src\View\Pages\ProductPage\AddProductDialog.baml
+D:\Dev\Projects\Task for Interviews\ProjectMate\Task1\obj\Debug\Src\View\Pages\ProductPage\DeleteProductDialog.baml
+D:\Dev\Projects\Task for Interviews\ProjectMate\Task1\obj\Debug\Src\View\Pages\ProductPage\ProductPage.baml
+D:\Dev\Projects\Task for Interviews\ProjectMate\Task1\obj\Debug\Src\View\Pages\ProductPage\UpdateProductDialog.baml
+D:\Dev\Projects\Task for Interviews\ProjectMate\Task1\obj\Debug\Task1.g.resources
+D:\Dev\Projects\Task for Interviews\ProjectMate\Task1\obj\Debug\Task1.Properties.Resources.resources
+D:\Dev\Projects\Task for Interviews\ProjectMate\Task1\obj\Debug\Task1.csproj.GenerateResource.cache
+D:\Dev\Projects\Task for Interviews\ProjectMate\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+D:\Dev\Projects\Task for Interviews\ProjectMate\Task1\obj\Debug\Task1.csproj.CopyComplete
+D:\Dev\Projects\Task for Interviews\ProjectMate\Task1\obj\Debug\Task1.exe
+D:\Dev\Projects\Task for Interviews\ProjectMate\Task1\obj\Debug\Task1.pdb

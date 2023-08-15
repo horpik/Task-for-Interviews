@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+    <PropertyGroup>
+        <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+        <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+        <ProjectGuid>{9A07417D-FDF0-4AC8-824E-B82DC51F87CE}</ProjectGuid>
+        <OutputType>WinExe</OutputType>
+        <RootNamespace>Task1</RootNamespace>
+        <AssemblyName>Task1</AssemblyName>
+        <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+        <FileAlignment>512</FileAlignment>
+        <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+        <WarningLevel>4</WarningLevel>
+        <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    </PropertyGroup>
+    <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+        <PlatformTarget>AnyCPU</PlatformTarget>
+        <DebugSymbols>true</DebugSymbols>
+        <DebugType>full</DebugType>
+        <Optimize>false</Optimize>
+        <OutputPath>bin\Debug\</OutputPath>
+        <DefineConstants>DEBUG;TRACE</DefineConstants>
+        <ErrorReport>prompt</ErrorReport>
+        <WarningLevel>4</WarningLevel>
+    </PropertyGroup>
+    <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+        <PlatformTarget>AnyCPU</PlatformTarget>
+        <DebugType>pdbonly</DebugType>
+        <Optimize>true</Optimize>
+        <OutputPath>bin\Release\</OutputPath>
+        <DefineConstants>TRACE</DefineConstants>
+        <ErrorReport>prompt</ErrorReport>
+        <WarningLevel>4</WarningLevel>
+    </PropertyGroup>
+    <ItemGroup>
+        <Reference Include="mscorlib" />
+        <Reference Include="System" />
+        <Reference Include="System.Core" />
+        <Reference Include="System.Data" />
+        <Reference Include="System.Data.SqlClient, Version=4.6.1.5, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+          <HintPath>..\packages\System.Data.SqlClient.4.8.5\lib\net461\System.Data.SqlClient.dll</HintPath>
+        </Reference>
+        <Reference Include="System.Xml" />
+        <Reference Include="System.Xaml">
+            <RequiredTargetFramework>4.0</RequiredTargetFramework>
+        </Reference>
+        <Reference Include="WindowsBase" />
+        <Reference Include="PresentationCore" />
+        <Reference Include="PresentationFramework" />
+    </ItemGroup>
+    <ItemGroup>
+        <ApplicationDefinition Include="App.xaml">
+            <Generator>MSBuild:Compile</Generator>
+            <SubType>Designer</SubType>
+        </ApplicationDefinition>
+        <Compile Include="App.xaml.cs">
+            <DependentUpon>App.xaml</DependentUpon>
+            <SubType>Code</SubType>
+        </Compile>
+        <Compile Include="Src\EventManager.cs" />
+        <Compile Include="Src\Model\Model.cs" />
+        <Compile Include="Src\ViewModel\ClientPage\ClientEventManager.cs" />
+        <Compile Include="Src\ViewModel\ClientPage\ClientViewModel.cs" />
+        <Compile Include="Src\ViewModel\ManagerPage\ManagerEventManager.cs" />
+        <Compile Include="Src\ViewModel\ManagerPage\ManagerViewModel.cs" />
+        <Compile Include="Src\ViewModel\PagesViewModel.cs" />
+        <Compile Include="Src\ViewModel\MainWindowViewModel.cs" />
+        <Compile Include="Src\ViewModel\ProductPage\ProductEventManager.cs" />
+        <Compile Include="Src\ViewModel\ProductPage\ProductViewModel.cs" />
+        <Compile Include="Src\View\MainWindow.xaml.cs">
+          <DependentUpon>MainWindow.xaml</DependentUpon>
+          <SubType>Code</SubType>
+        </Compile>
+        <Compile Include="Src\View\Pages\ClientPage\AddClientDialog.xaml.cs">
+          <DependentUpon>AddClientDialog.xaml</DependentUpon>
+        </Compile>
+        <Compile Include="Src\View\Pages\ClientPage\ClientPage.xaml.cs">
+          <DependentUpon>ClientPage.xaml</DependentUpon>
+        </Compile>
+        <Compile Include="Src\View\Pages\ClientPage\DeleteClientDialog.xaml.cs">
+          <DependentUpon>DeleteClientDialog.xaml</DependentUpon>
+        </Compile>
+        <Compile Include="Src\View\Pages\ClientPage\GetManagerIdDialog.xaml.cs">
+          <DependentUpon>GetManagerIdDialog.xaml</DependentUpon>
+        </Compile>
+        <Compile Include="Src\View\Pages\ClientPage\GetStatusIdDialog.xaml.cs">
+          <DependentUpon>GetStatusIdDialog.xaml</DependentUpon>
+        </Compile>
+        <Compile Include="Src\View\Pages\ClientPage\UpdateClientDialog.xaml.cs">
+          <DependentUpon>UpdateClientDialog.xaml</DependentUpon>
+        </Compile>
+        <Compile Include="Src\View\Pages\ManagerPage\AddManagerDialog.xaml.cs">
+          <DependentUpon>AddManagerDialog.xaml</DependentUpon>
+        </Compile>
+        <Compile Include="Src\View\Pages\ManagerPage\DeleteManagerDialog.xaml.cs">
+          <DependentUpon>DeleteManagerDialog.xaml</DependentUpon>
+        </Compile>
+        <Compile Include="Src\View\Pages\ManagerPage\ManagerPage.xaml.cs">
+          <DependentUpon>ManagerPage.xaml</DependentUpon>
+        </Compile>
+        <Compile Include="Src\View\Pages\ManagerPage\UpdateManagerDialog.xaml.cs">
+          <DependentUpon>UpdateManagerDialog.xaml</DependentUpon>
+        </Compile>
+        <Compile Include="Src\View\Pages\ProductPage\AddProductDialog.xaml.cs">
+          <DependentUpon>AddProductDialog.xaml</DependentUpon>
+        </Compile>
+        <Compile Include="Src\View\Pages\ProductPage\DeleteProductDialog.xaml.cs">
+          <DependentUpon>DeleteProductDialog.xaml</DependentUpon>
+        </Compile>
+        <Compile Include="Src\View\Pages\ProductPage\ProductPage.xaml.cs">
+          <DependentUpon>ProductPage.xaml</DependentUpon>
+        </Compile>
+        <Compile Include="Src\View\Pages\ProductPage\UpdateProductDialog.xaml.cs">
+          <DependentUpon>UpdateProductDialog.xaml</DependentUpon>
+        </Compile>
+    </ItemGroup>
+    <ItemGroup>
+        <Compile Include="Properties\AssemblyInfo.cs">
+            <SubType>Code</SubType>
+        </Compile>
+        <Compile Include="Properties\Resources.Designer.cs">
+            <AutoGen>True</AutoGen>
+            <DesignTime>True</DesignTime>
+            <DependentUpon>Resources.resx</DependentUpon>
+        </Compile>
+        <EmbeddedResource Include="Properties\Resources.resx">
+            <Generator>ResXFileCodeGenerator</Generator>
+            <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+        </EmbeddedResource>
+    </ItemGroup>
+    <ItemGroup>
+        <None Include="App.config" />
+        <None Include="packages.config" />
+    </ItemGroup>
+    <ItemGroup>
+      <Page Include="Src\View\MainWindow.xaml">
+        <Generator>MSBuild:Compile</Generator>
+        <SubType>Designer</SubType>
+      </Page>
+      <Page Include="Src\View\Pages\ClientPage\AddClientDialog.xaml" />
+      <Page Include="Src\View\Pages\ClientPage\ClientPage.xaml" />
+      <Page Include="Src\View\Pages\ClientPage\DeleteClientDialog.xaml" />
+      <Page Include="Src\View\Pages\ClientPage\GetManagerIdDialog.xaml" />
+      <Page Include="Src\View\Pages\ClientPage\GetStatusIdDialog.xaml" />
+      <Page Include="Src\View\Pages\ClientPage\UpdateClientDialog.xaml" />
+      <Page Include="Src\View\Pages\ManagerPage\AddManagerDialog.xaml" />
+      <Page Include="Src\View\Pages\ManagerPage\DeleteManagerDialog.xaml" />
+      <Page Include="Src\View\Pages\ManagerPage\ManagerPage.xaml" />
+      <Page Include="Src\View\Pages\ManagerPage\UpdateManagerDialog.xaml" />
+      <Page Include="Src\View\Pages\ProductPage\AddProductDialog.xaml" />
+      <Page Include="Src\View\Pages\ProductPage\DeleteProductDialog.xaml" />
+      <Page Include="Src\View\Pages\ProductPage\ProductPage.xaml" />
+      <Page Include="Src\View\Pages\ProductPage\UpdateProductDialog.xaml" />
+    </ItemGroup>
+    <ItemGroup>
+      <Content Include="Images\diagram_db.png" />
+      <Content Include="Materials\Database Queries.txt" />
+      <Content Include="Materials\Instruction for the database.txt" />
+      <Content Include="Materials\task.docx" />
+    </ItemGroup>
+    <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
