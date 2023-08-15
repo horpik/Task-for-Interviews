@@ -19,3 +19,12 @@
 
 Клиент получает ответ на своё сообщение от лица бота:
 ![file not found](Resources/Images/user_get_answer.png)
+
+
+## Докерфайл 
+Чтобы запустить докерфайл, можно прописать: 
+
+`docker build -t bot .`
+
+
+`docker run bot`
