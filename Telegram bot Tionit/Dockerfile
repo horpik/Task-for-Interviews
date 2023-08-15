@@ -11,5 +11,4 @@ WORKDIR /codebase
 RUN pip install --upgrade pip
 RUN pip install -r requirements.txt
 
-#CMD ["python3", "./src/telegram_bot.py"]
 CMD python3 /codebase/src/telegram_bot.py;
