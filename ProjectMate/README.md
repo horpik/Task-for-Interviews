@@ -13,3 +13,8 @@
 
 ### Работа с базой данных
 Для удобства проверки запросы выписаны в файл **Task1\Materials\Instruction for the database.txt**
+
+### Демонстрация визуального отображения программы
+
+![file not found](Task1/Images/MainWindow.png)
+![file not found](Task1/Images/MainWindow1.png)
